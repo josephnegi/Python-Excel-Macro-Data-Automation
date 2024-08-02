@@ -42,8 +42,4 @@ This project requires Python libraries for web scraping (e.g., BeautifulSoup) an
 * This is a prototype and might require adjustments for specific use cases.
 * Adapt the code for your preferred data formatting and spreadsheet structure.
 
-**Link to Repository:**
 
-https://github.com/josephnegi/Python-Excel-Macro-Data-Automation
-
-**Feel free to explore the code and contribute to its improvement!**
