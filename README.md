@@ -1,4 +1,4 @@
-## Python Automation for Macroeconomic Data Collection and Reporting (Dissertation Project)
+## Python Automation for Macroeconomic Data Collection and Reporting
 
 This repository contains Python code designed to automate the collection and processing of macroeconomic data, significantly reducing manual effort.
 
